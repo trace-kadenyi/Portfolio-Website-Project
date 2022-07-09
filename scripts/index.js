@@ -36,8 +36,8 @@ const workSection = [
     overview: ['CANOPY', 'Full Stack Dev', 2022],
     overview_image: 'images/circle.svg',
     technologies: ['html', 'css', 'javaScript'],
-    liveVersion: 'https://github.com/TracK92/React-To-Do-List',
-    liveSource: 'https://github.com/TracK92/Portfolio-mobile-version-skeleton.git',
+    liveVersion: 'https://track92.github.io/My-To-Do-List/',
+    liveSource: 'https://github.com/TracK92/My-To-Do-List.git',
   },
   {
     id: 2,
@@ -48,8 +48,8 @@ const workSection = [
     overview: ['CANOPY', 'Full Stack Dev', 2022],
     overview_image: 'images/circle.svg',
     technologies: ['html', 'css', 'javaScript'],
-    liveVersion: 'https://track92.github.io/Portfolio-mobile-version-skeleton/',
-    liveSource: 'https://github.com/TracK92/Portfolio-mobile-version-skeleton.git',
+    liveVersion: 'https://track92.github.io/Awesome-Books-ES6-Modules/',
+    liveSource: 'https://github.com/TracK92/Awesome-Books-ES6-Modules.git',
   },
   {
     id: 3,
