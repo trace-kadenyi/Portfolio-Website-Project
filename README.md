@@ -1,6 +1,6 @@
-# Project Name: Portfolio Mobile Version Skeleton
+# Project Name: Portfolio Website
 
-> Description of the project: This project is a skeleton of the mobile version of my potential portfolio. It includes all the features from the logo to my social media contacts. 
+> Description of the project: This is my portfolio website project. 
 
 
 ## Built With
@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-Website Link - https://track92.github.io/Portfolio-Website-Project/
+- [LIVE DEMO LINK](https://track92.github.io/Portfolio-Website-Project/)
 
 
 ## Authors
